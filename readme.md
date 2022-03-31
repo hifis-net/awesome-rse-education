@@ -1,6 +1,6 @@
 # Awesome Educational Resources for Research Software Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of educational resources for Research Software Engineering (RSE) and RSE Consultancies. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+> A curated awesome list of educational resources for Research Software Engineering (RSE) and Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
 
 ## Contents
 
@@ -11,6 +11,7 @@
 - [Software Development](#software-development)
 - [Software Testing](#software-testing)
 - [Software Licensing](#software-licensing)
+- [Contribute](#contribute)
 
 ## Sustainable Research Software
 
