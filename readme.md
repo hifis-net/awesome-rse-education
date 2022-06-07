@@ -18,8 +18,8 @@
 ## Software Documentation
 
 - [Awesome READMEs](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs.
-- [One Sentence per Line Principle](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
-- [DLR Talk - Pragmatic Software Architecture Documentation](https://zenodo.org/record/3565355).
+- [One Sentence per Line Principle](https://rhodesmill.org/brandon/2012/one-sentence-per-line/) - Why you should write only one sentence per line in your documentation.
+- [Pragmatic Software Architecture Documentation](https://zenodo.org/record/3565355) - DLR Talk about concepts of software architecture documentation.
 - [Architektur Spicker](https://www.embarc.de/architektur-spicker) - Short cheatsheets for basic software architecture documentation (German).
 - [Architectural Decision Records (ADR)](https://adr.github.io/) - An overview to ADRs.
 - [Open Source Guides](https://opensource.guide/) - Documentation required for Open Source Software.
@@ -49,7 +49,7 @@
 - [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) -  Guiding Principles for keeping changelogs.
 - [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, books, and any other resource related to code review.
 - [pre-commit](https://pre-commit.com/) -  A framework to manage pre-commit hooks.
-- [Dustin Boswell, Trevor Foucher: "The Art of Readable Code", O'Reilly Media, 2011](https://www.oreilly.com/library/view/the-art-of/9781449318482/).
+- [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) - A book explaining techniques for better readable code.
 
 ### Testing
 
@@ -59,9 +59,9 @@
 
 - [Cookiecutter](https://pypi.org/project/cookiecutter/) - A command-line utility that creates projects from cookiecutters (project templates) for several languages.
 - [Best practices for creating reusable data publications](https://datadryad.org/stash/best_practices) - Good Data Practices for creating reusable Dryad data packages.
-- [Structure of the Repository](https://docs.python-guide.org/writing/structure/#structure-of-the-repository).
-- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/).
-- [Structuring R projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/).
+- [Structure of the Repository](https://docs.python-guide.org/writing/structure/#structure-of-the-repository) - Explains the basics of Python repository structures.
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/) - Shows typical Python Applications Layouts.
+- [Structuring R projects](https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/) - Explains the basics of R repository structures.
 
 ### Code Styles
 
@@ -74,7 +74,7 @@
 - [Awesome Linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters.
 - [Pylint](https://www.pylint.org/) - The code linter for Python.
 - [Flake8](https://flake8.pycqa.org/en/latest/) - A modern code linter for Python.
-- [Lintr](https://cran.r-project.org/web/packages/lintr/readme/README.html).
+- [Lintr](https://cran.r-project.org/web/packages/lintr/readme/README.html) - A code linter for R.
 - [Awesome Code-Formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of code formatters.
 - [Black](https://github.com/psf/black) - Black: The uncompromising Python (PEP-8) code formatter.
 
