@@ -4,10 +4,15 @@
 
 ## Contents
 
+- [General](#general)
 - [Software Design and Architecture](#software-design-and-architecture)
 - [Software Documentation](#software-documentation)
 - [Software Development](#software-development)
 - [Trainings and Courses](#trainings-and-courses)
+
+## General
+
+- [The Turing Way](https://the-turing-way.netlify.app) - A handbook to reproducible, ethical and collaborative data science.
 
 ## Software Design and Architecture
 
