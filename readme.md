@@ -83,13 +83,13 @@
 ## Trainings and Courses
 
 - [Carpentries trainings](https://carpentries.org/) - Free course material to teach and learn foundational coding and data science skills.
-- [Codebender](https://codebender.org/) - Course on Managing Research Software Projects
+- [Codebender](https://codebender.org/) - Course on Managing Research Software Projects.
 - [Code Refinery](https://coderefinery.org) - CodeRefinery acts as a hub for FAIR (Findable, Accessible, Interoperable, and Reusable) software practices.
 - [HIFIS workshops](https://gitlab.com/hifis/hifis-workshops) - Free course material to teach or learn research software engineering skills.
 - [HLRS](http://www.hlrs.de/training/) - Specialized trainings with topics in HPC computing.
-- [Merely Useful](https://merely-useful.tech/) - Book-based course material for Research Software Engineering with Python and R
+- [Merely Useful](https://merely-useful.tech/) - Book-based course material for Research Software Engineering with Python and R.
 - [PARCE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
-- [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics
+- [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics.
 
 ## Contributing
 
