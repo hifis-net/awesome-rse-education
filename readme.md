@@ -88,6 +88,8 @@
 - [HIFIS workshops](https://gitlab.com/hifis/hifis-workshops) - Free course material to teach or learn research software engineering skills.
 - [HLRS](http://www.hlrs.de/training/) - Specialized trainings with topics in HPC computing.
 - [Merely Useful](https://merely-useful.tech/) - Book-based course material for Research Software Engineering with Python and R.
+- [MIT](https://missing.csail.mit.edu/) - The missing semester of your CS education.
+- [NBIS](https://nbis-reproducible-research.readthedocs.io/en/course_2104/) - Tools for reproducible research.
 - [PARCE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
 - [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics.
 
