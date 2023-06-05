@@ -9,6 +9,7 @@
 - [Software Documentation](#software-documentation)
 - [Software Development](#software-development)
 - [Trainings and Courses](#trainings-and-courses)
+- [Podcasts](#podcasts)
 
 ## General
 
@@ -92,6 +93,15 @@
 - [NBIS](https://nbis-reproducible-research.readthedocs.io/en/course_2104/) - Tools for reproducible research.
 - [PARCE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
 - [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics.
+
+## Podcasts
+
+Podcasts that we can recommend as RSEs for RSEs.
+
+- [CoRecursive](https://corecursive.com/) - Interesting stories behind software (e.g. SQLite or Swift) and first principles (e.g. BLAS, Performance and Language-oriented design).
+- [Changelog](https://changelog.com/podcast/) - Current news about software, deep technical interviews and talk shows.
+- [SE Radio](https://www.se-radio.net/) - IEEE Software supported podcast with talks about software development principles like Trunk-based development & error tracking.
+- [Code for Thought](https://codeforthought.buzzsprout.com/) - A podcast on software, engineering, research and anything in between.
 
 ## Contributing
 
