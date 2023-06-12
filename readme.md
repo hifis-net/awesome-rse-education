@@ -98,10 +98,22 @@
 
 Podcasts that we can recommend as RSEs for RSEs.
 
-- [CoRecursive](https://corecursive.com/) - Interesting stories behind software (e.g. SQLite or Swift) and first principles (e.g. BLAS, Performance and Language-oriented design).
-- [Changelog](https://changelog.com/podcast/) - Current news about software, deep technical interviews and talk shows.
-- [SE Radio](https://www.se-radio.net/) - IEEE Software supported podcast with talks about software development principles like Trunk-based development & error tracking.
+### RSE-specific podcasts
+
 - [Code for Thought](https://codeforthought.buzzsprout.com/) - A podcast on software, engineering, research and anything in between.
+
+### Python
+- [Python Bytes](https://pythonbytes.fm/) - Their subtitle "Python headlines delivered directly to your earbuds" says it all. Discussion with 2 hosts + guest(s) in short 5-10min blocks about new library releases, blog posts, conferences, etc. potentially with some special inclination towards the guest's expertise.
+- [Talk Python To Me](https://talkpython.fm/) - In depth (around 1h) discussion of individual topics around python with guest(s), sometimes including interesting lists of tools, libraries, etc. Occasionally with guests from research but often around very different parts of python.
+- [Test & Code](https://testandcode.com/) - Not always about testing but with an inclination towards it, rather mixed content, i.e. long(-ish) and shorter episodes, sometimes guests. Usually not research-related.
+
+### Others
+- [ADSP - The Podcast](https://adspthepodcast.com/): - Chatty, regularly derailing podcast with some very insightful parts (if they manage to actually focus on the topic). Mostly about C++ with excursions into other languages.
+- [Changelog](https://changelog.com/podcast/) - Current news about software, deep technical interviews and talk shows.
+- [CoRecursive](https://corecursive.com/) - Interesting stories behind software (e.g. SQLite or Swift) and first principles (e.g. BLAS, Performance and Language-oriented design).
+- [Cppcast](https://cppcast.com/) - *The* C++ podcast. Abandoned in summer 2022 and restarted with new hosts at the beginning of 2023.
+- [SE Radio](https://www.se-radio.net/) - IEEE Software supported podcast with talks about software development principles like Trunk-based development & error tracking.
+- [Two's Complement](https://twoscomplement.org/) - Monthly, very interesting discussions revolving around programming in the broadest sense.
 
 ## Contributing
 
