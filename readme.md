@@ -86,12 +86,15 @@
 - [Carpentries trainings](https://carpentries.org/) - Free course material to teach and learn foundational coding and data science skills.
 - [Codebender](https://codebender.org/) - Course on Managing Research Software Projects.
 - [Code Refinery](https://coderefinery.org) - CodeRefinery acts as a hub for FAIR (Findable, Accessible, Interoperable, and Reusable) software practices.
+- [EMBL-EBI Training](https://www.ebi.ac.uk/training/) - Training in data-driven life sciences.
+- [ENCCS](https://enccs.github.io/instructor-training/) - Best Practices in HPC Training.
 - [HIFIS workshops](https://gitlab.com/hifis/hifis-workshops) - Free course material to teach or learn research software engineering skills.
 - [HLRS](http://www.hlrs.de/training/) - Specialized trainings with topics in HPC computing.
 - [Merely Useful](https://merely-useful.tech/) - Book-based course material for Research Software Engineering with Python and R.
 - [MIT](https://missing.csail.mit.edu/) - The missing semester of your CS education.
 - [NBIS](https://nbis-reproducible-research.readthedocs.io/en/course_2104/) - Tools for reproducible research.
-- [PARCE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
+- [PRACE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
+- [Programming Historian](https://programminghistorian.org/en/) - Tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
 - [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics.
 
 ## Podcasts
