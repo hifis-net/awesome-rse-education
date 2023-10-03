@@ -101,10 +101,10 @@
 
 Podcasts that we can recommend as RSEs for RSEs.
 
-- [CoRecursive](https://corecursive.com/) - Interesting stories behind software (e.g. SQLite or Swift) and first principles (e.g. BLAS, Performance and Language-oriented design).
-- [Changelog](https://changelog.com/podcast/) - Current news about software, deep technical interviews and talk shows.
-- [SE Radio](https://www.se-radio.net/) - IEEE Software supported podcast with talks about software development principles like Trunk-based development & error tracking.
+### RSE-specific podcasts
+
 - [Code for Thought](https://codeforthought.buzzsprout.com/) - A podcast on software, engineering, research and anything in between.
+- [Developer Stories](https://rseng.github.io/devstories/) - Originally created for raising awareness for RSE, later on broadened its scope.
 
 ## Contributing
 
