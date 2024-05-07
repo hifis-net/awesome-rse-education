@@ -114,7 +114,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 
 Higher education offers at universities and the like with RSE focus:
 
-- [Learn Research Software Engineering](https://de-rse.org/learn-and-teach/learn/) - Overview of [deRSE](https://de-rse.org/) on study programs (with an focus on Germany)
+- [Learn Research Software Engineering](https://de-rse.org/learn-and-teach/learn/) - Overview of [deRSE](https://de-rse.org/) on study programs (with an focus on Germany).
 
 ## Podcasts
 
