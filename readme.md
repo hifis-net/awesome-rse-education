@@ -1,6 +1,18 @@
 # Awesome Educational Resources for Research Software Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of educational resources for Research Software Engineering (RSE) and Engineering (RSE).
+A curated awesome list of Educational Ressources for Research Software Engineering (RSE). Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+
+**About//** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Contributing](contributing.md)&nbsp;&nbsp;&nbsp;
+[HIFIS](https://hifis.net)&nbsp;&nbsp;&nbsp;
+[Awesome](https://github.com/sindresorhus/awesome)
+
+**Sub lists//**&nbsp;&nbsp;&nbsp;
+[Educational Resources](https://github.com/hifis-net/awesome-rse-education)&nbsp;&nbsp;&nbsp;
+[Communities](https://github.com/hifis-net/awesome-rse-communities)&nbsp;&nbsp;&nbsp;
+[FAIR](https://github.com/hifis-net/awesome-rse-fair)&nbsp;&nbsp;&nbsp;
+[Policies & Guidelines](https://github.com/hifis-net/awesome-rse-policies)&nbsp;&nbsp;&nbsp;
+[Science](https://github.com/hifis-net/awesome-rse-science)
 
 ## Contents
 
@@ -8,7 +20,8 @@
 - [Software Design and Architecture](#software-design-and-architecture)
 - [Software Documentation](#software-documentation)
 - [Software Development](#software-development)
-- [Trainings and Courses](#trainings-and-courses)
+- [Trainings](#trainings)
+- [Higher Education](#higher-education)
 - [Podcasts](#podcasts)
 
 ## General
@@ -81,7 +94,7 @@
 - [Awesome Linters](https://github.com/caramelomartins/awesome-linters) - A community-driven list of awesome linters.
 - [Awesome Code-Formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of code formatters.
 
-## Trainings and Courses
+## Trainings
 
 - [Carpentries trainings](https://carpentries.org/) - Free course material to teach and learn foundational coding and data science skills.
 - [Codebender](https://codebender.org/) - Course on Managing Research Software Projects.
@@ -96,6 +109,12 @@
 - [PRACE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
 - [Programming Historian](https://programminghistorian.org/en/) - Tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
 - [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics.
+
+## Higher Education
+
+Higher education offers at universities and the like with RSE focus:
+
+- [Learn Research Software Engineering](https://de-rse.org/learn-and-teach/learn/) - Overview of [deRSE](https://de-rse.org/) on study programs (with an focus on Germany).
 
 ## Podcasts
 
