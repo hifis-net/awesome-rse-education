@@ -45,6 +45,8 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Architektur Spicker](https://www.embarc.de/architektur-spicker) - Short cheatsheets for basic software architecture documentation (German).
 - [Open Source Guides](https://opensource.guide/) - Documentation required for Open Source Software.
 - [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation) - A curated list of awesome real-life documentation examples.
+- [One Good Tutorial](https://onegoodtutorial.org/) - A guide and checklist for writing good tutorials.
+- [Diátaxis](https://diataxis.fr/) - A comprehensive framework for documentation. It distinguishes between tutorials, how-to guides, technical reference and explanation.
 
 ### Tools
 
@@ -57,6 +59,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
 - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
 - [Awesome programming languages](https://github.com/ChessMax/awesome-programming-languages) - The list of 203 awesome programming languages.
+- [Netherlands eScience Center - Software Development Guide](https://guide.esciencecenter.nl/#/README) - A guide from the eScience Center on software development, with subtopics on _best practices_, _language guides_, and _technology guides_.
 
 ### Change Management
 
