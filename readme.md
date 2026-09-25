@@ -35,6 +35,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [An Introduction to Software Architecture](https://www.cs.cmu.edu/afs/cs/project/vit/ftp/pdf/intro_softarch.pdf) - Foundational introduction to SW architecture by Garlan and Shaw.
 - [Design Patterns](https://faculty.chas.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf) - The GoF (Gang of Four) design patterns.
 - [The Architecture of Open Source Applications](https://aosabook.org/en/) - A book on the architecture of many large-scale open source software, detailing the design process from the code authors perspective.
+- [IEEE/ISO/IEC 42010-2022](https://standards.ieee.org/ieee/42010/6846/) - IEEE/ISO/IEC International Standard for Software, systems and enterprise--Architecture description
 
 ## Software Documentation
 
