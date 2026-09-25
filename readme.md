@@ -51,6 +51,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation) - A curated list of awesome real-life documentation examples.
 - [One Good Tutorial](https://onegoodtutorial.org/) - A guide and checklist for writing good tutorials.
 - [Diátaxis](https://diataxis.fr/) - A comprehensive framework for documentation. It distinguishes between tutorials, how-to guides, technical reference and explanation.
+- [UML v2.5.1](https://www.omg.org/spec/UML/) - An official UML specification by Object Management Group (OMG).
 
 ### Tools
 
