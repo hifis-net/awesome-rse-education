@@ -57,6 +57,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
 - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
 - [Awesome programming languages](https://github.com/ChessMax/awesome-programming-languages) - The list of 203 awesome programming languages.
+- [Netherlands eScience Center - Software Development Guide](https://guide.esciencecenter.nl/#/README) - A guide from the eScience Center on software development, with subtopics on _best practices_, _language guides_, and _technology guides_.
 
 ### Change Management
 
