@@ -71,6 +71,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, books, and any other resource related to code review.
 - [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) - A book explaining techniques for better readable code.
 - [pre-commit](https://pre-commit.com/) -  A framework to manage pre-commit hooks.
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A convention on how to structure git commits for easier reading and/or automation.
 
 ### Testing
 
