@@ -109,6 +109,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [PRACE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
 - [Programming Historian](https://programminghistorian.org/en/) - Tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
 - [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics.
+- [iBOTS Carpentries-Style Courses](https://learn.ibots-bonn.de/) - Free Jupyter-notebook course material for teaching coding, data analysis, and software engineering skills. Written for the neuroscience field, materials composed of "micro"-exercises.
 
 ## Higher Education
 
