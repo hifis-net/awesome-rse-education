@@ -71,6 +71,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, books, and any other resource related to code review.
 - [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) - A book explaining techniques for better readable code.
 - [pre-commit](https://pre-commit.com/) -  A framework to manage pre-commit hooks.
+- [Ten simple rules for reporting a bug](https://doi.org/10.1371/journal.pcbi.1010540) - An article on writing good bug reports to make user support easier.
 
 ### Testing
 
