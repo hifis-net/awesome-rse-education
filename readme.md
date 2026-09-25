@@ -32,9 +32,6 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 
 - [Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design) - A guide to software design and architecture.
 - [Software product quality](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) - The ISO/IEC software quality model.
-- [An Introduction to Software Architecture](https://www.cs.cmu.edu/afs/cs/project/vit/ftp/pdf/intro_softarch.pdf) - Foundational introduction to SW architecture by Garlan and Shaw.
-- [Design Patterns](https://faculty.chas.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf) - The GoF (Gang of Four) design patterns.
-- [The Architecture of Open Source Applications](https://aosabook.org/en/) - A book on the architecture of many large-scale open source software, detailing the design process from the code authors perspective.
 
 ## Software Documentation
 
@@ -68,6 +65,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Awesome Code Review](https://github.com/joho/awesome-code-review) - A curated list of tools, articles, books, and any other resource related to code review.
 - [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) - A book explaining techniques for better readable code.
 - [pre-commit](https://pre-commit.com/) -  A framework to manage pre-commit hooks.
+- [Ten simple rules for reporting a bug](https://doi.org/10.1371/journal.pcbi.1010540) - An article on writing good bug reports to make user support easier.
 
 ### Testing
 
