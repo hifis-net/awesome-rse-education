@@ -32,6 +32,9 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 
 - [Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design) - A guide to software design and architecture.
 - [Software product quality](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010) - The ISO/IEC software quality model.
+- [An Introduction to Software Architecture](https://www.cs.cmu.edu/afs/cs/project/vit/ftp/pdf/intro_softarch.pdf) - Foundational introduction to SW architecture by Garlan and Shaw.
+- [Design Patterns](https://faculty.chas.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf) - The GoF (Gang of Four) design patterns.
+- [The Architecture of Open Source Applications](https://aosabook.org/en/) - A book on the architecture of many large-scale open source software, detailing the design process from the code authors perspective.
 
 ## Software Documentation
 
@@ -46,7 +49,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Open Source Guides](https://opensource.guide/) - Documentation required for Open Source Software.
 - [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation) - A curated list of awesome real-life documentation examples.
 - [One Good Tutorial](https://onegoodtutorial.org/) - A guide and checklist for writing good tutorials.
-
+- [Diátaxis](https://diataxis.fr/) - A comprehensive framework for documentation. It distinguishes between tutorials, how-to guides, technical reference and explanation.
 
 ### Tools
 
@@ -59,6 +62,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [Awesome Software Engineering](https://github.com/Alliedium/awesome-software-engineering) - A curated list of awesome software engineering resources.
 - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers.
 - [Awesome programming languages](https://github.com/ChessMax/awesome-programming-languages) - The list of 203 awesome programming languages.
+- [Netherlands eScience Center - Software Development Guide](https://guide.esciencecenter.nl/#/README) - A guide from the eScience Center on software development, with subtopics on _best practices_, _language guides_, and _technology guides_.
 
 ### Change Management
 
@@ -111,6 +115,7 @@ A curated awesome list of Educational Ressources for Research Software Engineeri
 - [PRACE](https://events.prace-ri.eu/) - Advanced trainings and workshops with topics in computing.
 - [Programming Historian](https://programminghistorian.org/en/) - Tutorials that help humanists learn a wide range of digital tools, techniques, and workflows.
 - [The Alan Turing Institute](https://github.com/orgs/alan-turing-institute/repositories?q=course&type=all&language=&sort=) - Course Material for several RSE related topics.
+- [iBOTS Carpentries-Style Courses](https://learn.ibots-bonn.de/) - Free Jupyter-notebook course material for teaching coding, data analysis, and software engineering skills. Written for the neuroscience field, materials composed of "micro"-exercises.
 
 ## Higher Education
 
